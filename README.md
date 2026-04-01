@@ -47,4 +47,4 @@ O projeto foi integralmente verificado segundo as normas:
 * `/scripts`: (Opcional) Planilhas ou códigos Python usados na automação dos cálculos.
 
 ---
-📧 **Contato:** [Seu Nome] - [Link para seu LinkedIn]
+📧 **Contato:** Paulo Alberto Barros - www.linkedin.com/in/paulo-barros-365983380
