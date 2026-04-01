@@ -1,0 +1,12 @@
+# Arquivos temporários do ANSYS
+*.log
+*.err
+*.out
+*.backup
+*.page
+
+# Arquivos temporários do LaTeX/Overleaf
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
